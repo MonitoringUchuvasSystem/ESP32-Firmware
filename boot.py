@@ -4,8 +4,8 @@ import network
 import ntptime
 import time
 
-ssid = "dlink-0B4C"
-password = "sWkADc:nHzxX-K|o&mnIbnw24"
+ssid = "your ssid"
+password = "your pswd"
 wifi = network.WLAN(network.STA_IF)
 wifi.active(True)
 
